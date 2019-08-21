@@ -159,3 +159,15 @@ button:active{background-color: #443729;}
     border-radius: 5px;
     font-family: 'Raleway', sans-serif;
 }
+
+.otherColor{
+    font-size: 200%;
+    color:black;
+    font-style: bold;
+}
+
+.results>.features{
+    position:relative;
+    bottom:0;
+    right:0;
+}
